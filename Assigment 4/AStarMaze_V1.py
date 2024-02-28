@@ -1,9 +1,9 @@
-#######################################################
+########################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
 #### Chris Nolan - Problem 1
 #### AI, Spring 2024
-#######################################################
+########################################################
 import tkinter as tk
 from PIL import ImageTk, Image, ImageOps 
 from queue import PriorityQueue

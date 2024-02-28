@@ -1,7 +1,7 @@
 #######################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
-####
+#### Chris Nolan Assignment 4 Problem 2
 #### AI, Spring 2024
 #######################################################
 import math
